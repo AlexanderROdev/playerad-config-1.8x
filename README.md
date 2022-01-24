@@ -16,6 +16,7 @@ COMMANDS:
 
 PERMISSIONS:
 - playerad.advertise
+
 ORIGINAL LINK:
 https://www.spigotmc.org/resources/playerad-sounds-bossbars-fully-customizable-new.53120/
 This is just a CONFIG.YML.
